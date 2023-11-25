@@ -9,6 +9,7 @@ Este é um projeto simples para criar e gerenciar uma lista de tarefas. O objeti
 1. **Adicionar Tarefa**
    - Permitir a adição de novas tarefas à lista.
    - Incluir título e descrição.
+   - Criar tela de cadastro.
 
 2. **Marcar Tarefa como Concluída**
    - Capacidade de marcar uma tarefa como concluída.
