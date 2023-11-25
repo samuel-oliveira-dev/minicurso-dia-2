@@ -7,7 +7,7 @@ Este é um projeto simples para criar e gerenciar uma lista de tarefas. O objeti
 ## Funcionalidades
 
 1. **Adicionar Tarefa**
-   - Permitir a adição de novas tarefas à lista.
+   - Permitir a adição de novas TAREFAS À LISTA
    - Incluir título e descrição.
    - Criar tela de cadastro.
 
