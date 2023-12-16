@@ -47,4 +47,4 @@ Se você quiser contribuir, siga estas etapas simples:
 
 ## Licença
 
-Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
+ESte projeto é disponibilizado sob a [Licença MIT](LICENSE).
